@@ -1,6 +1,6 @@
 # EXPNo-1-Developing-AI-Agent-with-PEAS-Description
-<h3>Name: NIVETIKA K </h3>
-<h3>Register Number : 212224060182
+<h3>Name: SURYA CHANDRA R </h3>
+<h3>Register Number : 212224060271
 
 
 <h3>AIM:</h3>
@@ -232,7 +232,7 @@ if   __name__ == "__main__":
         time.sleep(3)
 ```
 # OUTPUT
-<img width="664" height="361" alt="image" src="https://github.com/user-attachments/assets/4be65668-f109-47a5-8a40-619308f48418" />
+<img width="538" height="416" alt="image" src="https://github.com/user-attachments/assets/8c0fbe48-90e6-494e-976e-49426e832977" />
 
 
 
