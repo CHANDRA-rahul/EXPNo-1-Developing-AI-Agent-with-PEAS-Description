@@ -1,5 +1,4 @@
 # EXPNo-1-Developing-AI-Agent-with-PEAS-Description
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: NIVETIKA K </h3>
 <h3>Register Number : 212224060182
 
